@@ -1,6 +1,11 @@
 <template>
   <div class="max-w-5xl mx-auto mt-12 px-4 text-center">
     <div class="w-full max-w-3xl mx-auto">
+
+        <div class="logo">
+            <img src="../assets/logo.jpg" alt="Vue Tailwind Logo" class="w-20 h-20 mx-auto">
+        </div>
+
         <h1 class="text-4xl font-bold mt-2 mb-6">Facilitamos seu atendimento;<br>com um prontuário seguro e intuitivo.</h1>
         <p class="px-4 leading-relaxed">
             Nosso sistema permite que psicólogas e profissionais da saúde registrem atendimentos de forma simples e segura.<br>
