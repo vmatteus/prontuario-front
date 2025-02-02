@@ -4,6 +4,7 @@
 
         <div class="logo">
             <img src="../assets/logo.jpg" alt="Vue Tailwind Logo" class="w-20 h-20 mx-auto">
+            <div class="text-center text-2l font-bold text-gray-800 md:text-2l"> Clipboard Online</div>
         </div>
 
         <h1 class="text-4xl font-bold mt-2 mb-6">Facilitamos seu atendimento;<br>com um prontuário seguro e intuitivo.</h1>

@@ -1,11 +1,12 @@
 <template>
-    <section class="max-w-md mx-auto mt-24">
+    <section class="max-w-md mx-auto mt-1">
         <div class="w-full bg-white rounded-lg md:mt-0 sm:max-w-md xl:p-0">
         
             <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
 
                 <div class="logo">
                     <img src="../assets/logo.jpg" alt="Vue Tailwind Logo" class="w-20 h-20 mx-auto">
+                    <div class="text-center text-2l font-bold text-gray-800 md:text-2l"> Clipboard Online</div>
                 </div>
 
                 <h1 class="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-2xl">
